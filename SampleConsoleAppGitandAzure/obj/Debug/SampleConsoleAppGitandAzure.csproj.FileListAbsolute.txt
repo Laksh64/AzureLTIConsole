@@ -1,0 +1,7 @@
+E:\DevOps\SampleConsoleAppGitandAzure\SampleConsoleAppGitandAzure\bin\Debug\SampleConsoleAppGitandAzure.exe.config
+E:\DevOps\SampleConsoleAppGitandAzure\SampleConsoleAppGitandAzure\bin\Debug\SampleConsoleAppGitandAzure.exe
+E:\DevOps\SampleConsoleAppGitandAzure\SampleConsoleAppGitandAzure\bin\Debug\SampleConsoleAppGitandAzure.pdb
+E:\DevOps\SampleConsoleAppGitandAzure\SampleConsoleAppGitandAzure\obj\Debug\SampleConsoleAppGitandAzure.csprojAssemblyReference.cache
+E:\DevOps\SampleConsoleAppGitandAzure\SampleConsoleAppGitandAzure\obj\Debug\SampleConsoleAppGitandAzure.csproj.CoreCompileInputs.cache
+E:\DevOps\SampleConsoleAppGitandAzure\SampleConsoleAppGitandAzure\obj\Debug\SampleConsoleAppGitandAzure.exe
+E:\DevOps\SampleConsoleAppGitandAzure\SampleConsoleAppGitandAzure\obj\Debug\SampleConsoleAppGitandAzure.pdb
